@@ -1,0 +1,10 @@
+name,chemistry,english,maths,physics,total,eligiblity
+hamid,80,85,95,98,273,eligible
+rashid,85,65,96,92,273,eligible
+ahrar,86,75,80,91,257,not_eligible
+mehtab,89,69,76,85,250,not_eligible
+shubham,56,59,87,78,221,eligible
+musharaf,89,89,86,85,260,eligible
+irshad,45,45,56,56,157,not_eligible
+shourabh,96,89,89,99,284,eligible
+shadab,82,59,78,69,229,not_eligible

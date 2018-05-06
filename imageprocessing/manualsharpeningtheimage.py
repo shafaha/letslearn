@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 
-img=cv2.imread('ks.jpg',0)
+img=cv2.imread('image/ks.jpg',0)
 rows,cols=img.shape
 mod=img[:]
 

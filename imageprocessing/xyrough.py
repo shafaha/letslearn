@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-img = cv2.imread('lips.jpg',0)
+img = cv2.imread('image/lips.jpg',0)
 img = cv2.resize(img,None,fx = 3,fy=3,interpolation = cv2.INTER_LANCZOS4)
 def sharpner(img2,k1,k2):
     rows,cols, = img2.shape

@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 
-img=cv2.imread('opencv.png',0)
+img=cv2.imread('image/opencv.png',0)
 rows,cols=img.shape
 rand=2 +  np.random.randn(rows,cols).reshape(rows,cols)
 #ret,rand=cv2.threshold(rand, 1 ,10,cv2.THRESH_BINARY)
